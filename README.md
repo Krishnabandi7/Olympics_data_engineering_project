@@ -60,6 +60,8 @@ Azure Data Lake Storage Gen2: Stores raw data in a hierarchical structure for sc
 Azure Databricks: Performs data cleaning, transformation, and enrichment using PySpark. Unity Catalog is used for governance, ensuring data lineage, access control, and metadata management.
 
 ![Screenshot 2025-04-19 190040](https://github.com/user-attachments/assets/9b08a3ee-4c19-4807-bcd7-5fd44d179250)
+![Screenshot 2025-04-19 190725](https://github.com/user-attachments/assets/cebf78f7-2024-4ad3-a154-fc54653b8a13)
+
 ![image](https://github.com/user-attachments/assets/f5c472c2-38f4-4650-80f8-f183cc389ea2)
 
 
