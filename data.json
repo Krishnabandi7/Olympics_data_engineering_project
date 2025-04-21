@@ -1,0 +1,17 @@
+[
+    {
+        "Krishnabandi7/Olympics_data_engineering_project/blob/main/data%20Sources/athletes.csv",
+        "p_folder" : "athletes",
+        "p_file" : "athletes.parquet"
+    },
+    {
+        "p_rel_url" : "Krishnabandi7/Olympics_data_engineering_project/blob/main/data%20Sources/coaches.csv",
+        "p_folder" : "coaches",
+        "p_file" : "coaches.parquet"
+    },
+    {
+        "p_rel_url" : "Krishnabandi7/Olympics_data_engineering_project/blob/main/data%20Sources/events.csv",
+        "p_folder" : "events",
+        "p_file" : "events.parquet"
+    }
+]
